@@ -1,1 +1,2 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mooner92)](https://solved.ac/mooner92/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=chalk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
