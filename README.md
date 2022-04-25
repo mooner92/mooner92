@@ -8,7 +8,7 @@
 	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=mooner92" alt="mazandi profile"/></a>
 </div>
 
-![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mooner92)
+<!-- ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mooner92) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=chalk&row=2&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
