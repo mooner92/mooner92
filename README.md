@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeongheon-choi-a4b007232/)](https://www.linkedin.com/in/myeongheon-choi-a4b007232/)
 
 
-<div align="center">
+<div align="left">
 	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mooner92" alt="solved.ac profile"/></a>
 	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=mooner92" alt="mazandi profile"/></a>
 </div>
