@@ -3,7 +3,10 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeongheon-choi-a4b007232/)](https://www.linkedin.com/in/myeongheon-choi-a4b007232/)
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mooner92)](https://solved.ac/mooner92/)
+<div align="center">
+	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mooner92" alt="solved.ac profile"/></a>
+	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=mooner92" alt="mazandi profile"/></a>
+</div>
 
 ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mooner92)
 
