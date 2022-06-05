@@ -18,7 +18,7 @@
 
 <!-- ![Statistics](https://github-readme-stats.vercel.app/api?username=mooner92&show_icons=true) -->
 
-![Github Graph](https://activity-graph.herokuapp.com/graph?username=mooner92&area=false&theme=xcode&hide_border=true)
+<!-- ![Github Graph](https://activity-graph.herokuapp.com/graph?username=mooner92&area=false&theme=xcode&hide_border=true) -->
 
 <_Tools_>
 
