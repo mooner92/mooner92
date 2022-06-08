@@ -10,7 +10,7 @@
 
 <!-- ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mooner92) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=chalk&row=2&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=juicyfreshk&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooner92&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <a href="https://opgc.me/#/users/mooner92" target="_blank"><img src="https://api.opgc.me/githubs/users/mooner92/tag/?theme=basic" /></a>
