@@ -14,8 +14,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=juicyfreshk&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooner92&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://opgc.me/#/users/mooner92" target="_blank"><img src="https://api.opgc.me/githubs/users/mooner92/tag/?theme=basic" /></a>
-[![streak](https://github-readme-streak-stats.herokuapp.com/?user=mooner92&theme=calm)](https://github.com/mooner92)
+<a href="https://opgc.me/#/users/mooner92" target="_blank"><img src="https://api.opgc.me/githubs/users/mooner92/tag/?theme=prism" /></a>
+<!-- [![streak](https://github-readme-streak-stats.herokuapp.com/?user=mooner92&theme=calm)](https://github.com/mooner92) -->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mooner92&theme=neon-dark&locale=ja&background=141414&stroke=C022DD&border=600000&ring=0014DD&fire=DD0000&currStreakNum=DADD00&sideNums=7BFDFF&currStreakLabel=AFDD69&sideLabels=DD7B0E&dates=13FF00)](https://git.io/streak-stats)
 
 <!-- ![Statistics](https://github-readme-stats.vercel.app/api?username=mooner92&show_icons=true) -->
 
