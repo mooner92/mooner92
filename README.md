@@ -2,15 +2,19 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlaudgjs0989@gmail.com)](mailto:chlaudgjs0989@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeongheon-choi-a4b007232/)](https://www.linkedin.com/in/myeongheon-choi-a4b007232/)
 
-
+<!--
 <div align="left">
 	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mooner92" alt="solved.ac profile"/></a>
 	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=mooner92" alt="mazandi profile"/></a>
 
 </div>
-
+-->
+<!--
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={mooner92})](https://solved.ac/{mooner92})
+-->
 <!-- ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mooner92) -->
 
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mooner92})](https://solved.ac/{mooner92})
 [![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=juicyfreshk&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooner92&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
