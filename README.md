@@ -29,7 +29,16 @@
   <a href="https://www.linkedin.com/in/myeongheon-choi-a4b007232/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
   </a> &nbsp
-	
+</p>
+
+<h3 align='center'>Blog</h3>
+<p align='center'>
+  <a href="https://mooner92-pgslectures.notion.site/Mooner92-5fc512df0bba4adda8eb9d8dfaec062c?pvs=4">
+    <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black" />
+  </a> &nbsp
+  <a href="https://mooner92.com">
+    <img src="https://img.shields.io/badge/Tistory-ED5305?style=flat-square&logo=Tistory&logoColor=white" />
+  </a> &nbsp
 </p>
 
 
