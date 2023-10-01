@@ -23,8 +23,11 @@
 
 <h3 align='center'> Social </h3>
 <p align='center'>
-	<a href="mailto:chlaudgjs0989@gmail.com">
-    <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+  <a href="mailto:chlaudgjs0989@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+  </a> &nbsp
+  <a href="mailto:mooner92@kakao.com">
+    <img src="https://img.shields.io/badge/kakaomail-FFCD00?style=flat-square&logo=kakao&logoColor=black" />
   </a> &nbsp
   <a href="https://www.linkedin.com/in/myeongheon-choi-a4b007232/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
