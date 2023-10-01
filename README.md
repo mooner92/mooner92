@@ -1,70 +1,36 @@
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmooner92%2Fhit-counter&count_bg=%23CD00FF&title_bg=%23555555&icon=bloglovin.svg&icon_color=%23E7E7E7&title=Hit+Badge&edge_flat=false"/></a>
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=mooner92)](https://solved.ac/mooner92)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chlaudgjs0989@gmail.com)](mailto:chlaudgjs0989@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/myeongheon-choi-a4b007232/)](https://www.linkedin.com/in/myeongheon-choi-a4b007232/)
+## Welcome my Github Page
+<p align = 'center'>"hello i'm <b>MyeongHeon Choi</b>👋 who become a fullstack developer."<br />I'm very interested in MSA and DevOps, I am an junior who mainly develops backend, but dreams of becoming a full stack developer. I'm trying to contribute to open source, and if there's any place that needs my ability, feel free to contact me! <br /> </p>
+<h3 align='center'> Tools </h3>
+	
+<p align='center'>
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5CC8F7?style=flat-square&logo=flutter&logoColor=white" />
+</p>
 
-
-<!--
-<div align="left">
-	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=mooner92" alt="solved.ac profile"/></a>
-	<a href="https://solved.ac/mooner92" target="_blank"><img src="http://mazandi.herokuapp.com/api?handle=mooner92" alt="mazandi profile"/></a>
-
-</div>
--->
-<!--
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={mooner92})](https://solved.ac/{mooner92})
--->
-<!-- ![utilForever's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=mooner92) -->
-
-<!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={mooner92})](https://solved.ac/{mooner92})-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=mooner92&theme=juicyfreshk&row=1&column=2)](https://github.com/ryo-ma/github-profile-trophy)
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooner92&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
---><!-- <a href="https://opgc.me/#/users/mooner92" target="_blank"><img src="https://api.opgc.me/githubs/users/mooner92/tag/?theme=prism" /></a> -->
-<!-- [![streak](https://github-readme-streak-stats.herokuapp.com/?user=mooner92&theme=calm)](https://github.com/mooner92) -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mooner92&theme=neon-dark&locale=ja&background=141414&stroke=C022DD&border=600000&ring=0014DD&fire=DD0000&currStreakNum=DADD00&sideNums=7BFDFF&currStreakLabel=AFDD69&sideLabels=DD7B0E&dates=13FF00)](https://git.io/streak-stats)-->
-
-<!-- ![Statistics](https://github-readme-stats.vercel.app/api?username=mooner92&show_icons=true) -->
-
-<!-- ![Github Graph](https://activity-graph.herokuapp.com/graph?username=mooner92&area=false&theme=xcode&hide_border=true) -->
-
-<_Tools_>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://static-00.iconduck.com/assets.00/flutter-original-icon-1655x2048-tldk79w8.png"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/NestJS.svg/1200px-NestJS.svg.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="35" src="https://mblogthumb-phinf.pstatic.net/MjAyMDAzMDhfOTkg/MDAxNTgzNjc5MTM1NjA1.wuX_qwdtmZrZ1dEVNyn1LgjmBCyK3TVIAo0nW1iD1Log.nlRqKrVJzqkKld5KvBVVQwJmF_6df5N-FLYWgpvjTZYg.PNG.alice_k106/스크린샷_2020-03-08_오후_11.46.49.png?type=w420"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/yaml/yaml.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScv1NmvewJnD4-bgs9Tstgy9qOpqTzmPUlyuUuv9SjvAGDTrLlMt_jaPgMXTJU1V0kX8w&usqp=CAU"></code>
-<code><img height="35" src="https://conceptdraw.com/a3134c3/p7/preview/640/pict--amazon-rds-aws-database---vector-stencils-library.png--diagram-flowchart-example.png"></code>
-<code><img height="35" src="https://www.softexia.com/wp-content/uploads/2019/04/Apache-HTTP-Server-256x256.png"></code>
-
-
-
-<_해보고싶은 것_>
-
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
-
-
-
-#frequency#
-
-* [2020](./mooner92-2020.stl)
-* [2019](./mooner92-2019.stl)
-
-
+<h3 align='center'> Social </h3>
+<p align='center'>
+	<a href="mailto:chlaudgjs0989@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
+  </a> &nbsp
+  <a href="https://www.linkedin.com/in/myeongheon-choi-a4b007232/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" />
+  </a> &nbsp
+	
+</p>
 
 
 
