@@ -1,4 +1,4 @@
-## Welcome my Github Page
+## Welcome my Github Page!
 <p align = 'center'>"hello i'm <b>MyeongHeon Choi</b>👋 who become a fullstack developer."<br />I'm very interested in MSA and DevOps, I am an junior who mainly develops backend, but dreams of becoming a full stack developer. I'm trying to contribute to open source, and if there's any place that needs my ability, feel free to contact me! <br /> </p>
 <h3 align='center'> Tools </h3>
 	
@@ -19,6 +19,13 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5CC8F7?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-5FB832?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF8700?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="Yolo" src="https://img.shields.io/badge/-Yolo-6D42EF?style=flat-square&logo=yolo&logoColor=white" />
+  <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-00A24D?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="CMake" src="https://img.shields.io/badge/-CMake-E33D3D?style=flat-square&logo=cmake&logoColor=white" />
 </p>
 
 <h3 align='center'> Social </h3>
