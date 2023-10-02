@@ -28,7 +28,7 @@
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-E33D3D?style=flat-square&logo=cmake&logoColor=white" />
 </p>
 
-<h3 align='center'> Social </h3>
+<h3 align='center'> Contact </h3>
 <p align='center'>
   <a href="mailto:chlaudgjs0989@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
