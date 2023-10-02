@@ -1,6 +1,6 @@
-## Welcome my Github Page!
+## Welcome to visit my Github Page! 🎉
 <p align = 'center'>"hello i'm <b>MyeongHeon Choi</b>👋 who become a fullstack developer."<br />I'm very interested in MSA and DevOps, I am an junior who mainly develops backend, but dreams of becoming a full stack developer. I'm trying to contribute to open source, and if there's any place that needs my ability, feel free to contact me! <br /> </p>
-<h3 align='center'> Tools </h3>
+<h3 align='center'> Tools 🛠️</h3>
 	
 <p align='center'>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -28,7 +28,7 @@
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-E33D3D?style=flat-square&logo=cmake&logoColor=white" />
 </p>
 
-<h3 align='center'> Contact </h3>
+<h3 align='center'> Contact ✉️ </h3>
 <p align='center'>
   <a href="mailto:chlaudgjs0989@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" />
@@ -41,7 +41,7 @@
   </a> &nbsp
 </p>
 
-<h3 align='center'>Blog</h3>
+<h3 align='center'>Blog 🖋️</h3>
 <p align='center'>
   <a href="https://mooner92-pgslectures.notion.site/Mooner92-5fc512df0bba4adda8eb9d8dfaec062c?pvs=4">
     <img src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black" />
