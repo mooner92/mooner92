@@ -7,6 +7,8 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Azure" src="https://img.shields.io/badge/-Azure-0865B5?style=flat-square&logo=microsoftazure&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -21,11 +23,14 @@
   <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-5CC8F7?style=flat-square&logo=flutter&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/-Spring-5FB832?style=flat-square&logo=spring&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-5FB832?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF8700?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Yolo" src="https://img.shields.io/badge/-Yolo-6D42EF?style=flat-square&logo=yolo&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-00A24D?style=flat-square&logo=nginx&logoColor=white" />
+  <img alt="Swift" src="https://img.shields.io/badge/-Swift-FB4628?style=flat-square&logo=swift&logoColor=white" />
   <img alt="CMake" src="https://img.shields.io/badge/-CMake-E33D3D?style=flat-square&logo=cmake&logoColor=white" />
+  
 </p>
 
 <h3 align='center'> Contact ✉️ </h3>
