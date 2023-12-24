@@ -1,5 +1,5 @@
 ## Welcome to visit my Github Page! 🎉
-<p align = 'center'>"hello i'm <b>MyeongHeon Choi</b>👋 who become a fullstack developer."<br />I'm very interested in MSA and DevOps, I am an junior who mainly develops backend, but dreams of becoming a full stack developer. I'm trying to contribute to open source, and if there's any place that needs my ability, feel free to contact me! <br /> </p>
+<p align = 'center'>"hello i'm <b>MyeongHeon Choi</b>👋 who become a DevOps Engineer."<br />I'm very interested in MSA and DevOps, I am an junior who mainly develops backend, but dreams of becoming a full stack developer. I'm trying to contribute to open source, and if there's any place that needs my ability, feel free to contact me! <br /> </p>
 <h3 align='center'> Tools 🛠️</h3>
 	
 <p align='center'>
